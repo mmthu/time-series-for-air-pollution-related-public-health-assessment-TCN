@@ -1,0 +1,1 @@
+This file presents another neural network model, TCN for air pollutants-related public health assessment. TCN aims to capture longer time correlation of air pollutants v.s. RNN(LSTM).
